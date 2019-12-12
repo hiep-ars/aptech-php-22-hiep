@@ -9,9 +9,10 @@ echo $php[2];
 ?>
 <h1>
     <?php
-    echo ("huhu");
+    echo ("huh");
     ?>
 </h1>
+
 <?php
  $products = [
     "iphone 11" => [
