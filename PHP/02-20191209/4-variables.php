@@ -50,7 +50,7 @@ echo "<h1>4. VARIABLES</h1>";
  * print_r($myName . ' - ' . $myProject);
  */
 echo "<br><br>DO EXERCISE INSIDE COMMENT CODE BELOW THIS LINE<hr>";
-$myName = "Le truowng hiep";
-$myProject = "sport Website";
+$myName = 'Le truowng hiep';
+$myProject = 'sport Website';
 echo "$myName - $myProject </br>";
 print_r($myName . ' - ' . $myProject);

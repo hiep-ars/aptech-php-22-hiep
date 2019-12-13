@@ -11,7 +11,6 @@
 <style>
 td, th {
     border: 2px solid blue ;
-    text align: center;
 }
 </style>
 </head>
